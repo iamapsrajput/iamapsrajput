@@ -1,117 +1,94 @@
+
 <!--
-  Ajay Rajput — Portfolio-style GitHub Profile README
-  Sleek, fast-loading, and fully dynamic using public image APIs (no setup required).
-  Tip: Keep this file minimal—let your pinned repos carry the deeper details.
+ Ajay Rajput — Portfolio GitHub Profile
+ Enhanced with dynamic widgets & workflows
+ Theme: Neon Radical + clean typography
 -->
 
-<!-- HERO / HEADER -->
+<!-- HEADER -->
 <div align="center">
 
-<!-- Typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ajay+Rajput;Lead+SRE+%7C+DevOps+%7C+Platform+Engineering;I+build+cloud-native%2C+observable%2C+cost-aware+platforms;Creator+of+ModelMuxer+%E2%80%94+Enterprise+LLM+Routing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&center=true&vCenter=true&multiline=true&width=1000&lines=👋+Hi%2C+I'm+Ajay+Rajput;🚀+Lead+SRE+%7C+DevOps+Engineer+%7C+Platform+Engineer;🤖+Creator+of+ModelMuxer+%7C+AI+%2B+DevOps+Builder" alt="Typing SVG intro" />
 
-<!-- Social / CTAs -->
-<p>
-  <a href="https://ajayrajput.link"><img alt="Website" src="https://img.shields.io/badge/🌐_Portfolio-ajayrajput.link-1E90FF?style=for-the-badge"></a>
-  <a href="mailto:iamapsrajput@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-iamapsrajput%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/iamapsrajput/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/iamapsrajput"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ajayrajput.link-1E90FF?style=for-the-badge)](https://ajayrajput.link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamapsrajput/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/iamapsrajput)
+[![Email](https://img.shields.io/badge/Email-iamapsrajput%40outlook.com-D14836?style=for-the-badge&logo=gmail)](mailto:iamapsrajput@outlook.com)
 
-<!-- Counters -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=iamapsrajput&style=for-the-badge&label=Profile+Views" alt="views" />
-  <img src="https://img.shields.io/github/followers/iamapsrajput?style=for-the-badge&label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/stars/iamapsrajput?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars" alt="stars" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=iamapsrajput&style=for-the-badge&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/iamapsrajput?style=for-the-badge&label=Followers" />
+<img src="https://img.shields.io/github/stars/iamapsrajput?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars" />
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## ⚡ About Me
 
-I design and run **resilient, observable, and cost-aware platforms** on the cloud—shipping with **IaC, CI/CD, security, and SLOs** baked in.
+Lead **Site Reliability Engineer @ Thomson Reuters** | 12+ years in **DevOps, Cloud, and AI systems**.  
+I build **cloud-native, observable, and cost-aware platforms** with automation-first engineering.
 
-- ☸️ **Cloud-Native Infra:** AWS, Azure, Kubernetes, Terraform  
-- ⚙️ **Automation & CI/CD:** GitHub Actions, Jenkins, Azure DevOps  
-- 📈 **Observability by default:** Datadog, Prometheus, Grafana, ELK  
-- 🔒 **Security & Compliance:** IAM, RBAC, Vault, audit logging  
-- 🤖 **AI × DevOps:** Creator of **ModelMuxer** (enterprise LLM router)
-
-> _“Automation-first engineering with budget guardrails and great DX.”_
+✨ Areas of focus:  
+- ☸️ **Cloud Infra**: AWS · Azure · Kubernetes · Terraform  
+- ⚙️ **CI/CD & Automation**: GitHub Actions · Jenkins · Azure DevOps  
+- 📈 **Observability by default**: Datadog · Grafana · Prometheus · ELK  
+- 🔒 **Enterprise Security**: IAM · RBAC · Vault · Audit logging  
+- 🤖 **AI × DevOps**: Routing, cost guardrails, intelligent automation  
 
 ---
 
-## 🧰 Tech I Reach For
+## 🛠 Toolbox
 
-<!-- Skills as badges (compact, scannable) -->
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-000?logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white" alt="Datadog" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticstack&logoColor=white" alt="ELK" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,terraform,docker,githubactions,ansible,linux,python,bash,c,cpp,postgres,mongodb,grafana,prometheus&perline=8" />
 </p>
 
 ---
 
 ## 🔭 Featured Work
 
-### 🧠 ModelMuxer — Enterprise LLM Routing Platform  
-_**Creator & Lead Developer**_ • 2025–present  
-Intelligent, cost-aware routing across multiple AI providers with enterprise security and observability.
-- ⚡ Sub-200 ms routing decisions, designed for **10k+ req/min**
-- 💰 Real-time budget guardrails, **70%+ cost-savings** potential
-- 🛡️ JWT, RBAC, audit logging; Kubernetes-native deployment  
-**Repo:** <a href="https://github.com/iamapsrajput/modelmuxer">github.com/iamapsrajput/modelmuxer</a>
+### 🧠 <a href="https://github.com/iamapsrajput/modelmuxer">ModelMuxer</a> — Enterprise LLM Router  
+Sub-200ms routing, cost guardrails (70% savings), multi-provider AI, K8s-native deployment.
 
-### 🛰️ FlightHub Optimization — Collins Aerospace  
-DevOps for large-scale flight profile computations with **200+ microservices** and **2M+ events/day** observability.
+### 🛠 GCC Control Plane — Thomson Reuters (2024)  
+Infra + CI/CD for global ops dashboard. Automated incident handling for 1k+ alerts/day. Cut monitoring overhead by 70%.
 
-### 🛠 GCC Control Plane — Thomson Reuters  
-Led infra, CI/CD, and automation (Lambda+Datadog) for a central ops dashboard, cutting manual monitoring by **70%**.
+### 🛰 FlightHub Optimization — Collins Aerospace (2020–22)  
+Scaled **200+ microservices**, 2M+ events/day observability, infra cost ↓25% with autoscaling.
 
 ---
 
-## 📊 Stats (live)
+## 📊 My GitHub Stats
 
 <div align="center">
 
-<!-- Core stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=iamapsrajput&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" alt="Ajay's GitHub stats" />
-
-<!-- Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamapsrajput&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=iamapsrajput&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<!-- Activity graph (last 31 days) -->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamapsrajput&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=iamapsrajput&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamapsrajput&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=iamapsrajput&theme=radical&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 📈 Contributions Activity
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamapsrajput&margin-w=8&margin-h=8&theme=tokyonight&no-frame=true" alt="trophies" />
-  </a>
-</p>
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamapsrajput&theme=react-dark&hide_border=true" alt="Ajay's GitHub Activity Graph"/>
+
+<!-- Contribution Snake (auto-generated to 'output' branch by workflow) -->
+<img src="https://raw.githubusercontent.com/iamapsrajput/iamapsrajput/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamapsrajput&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
+</div>
 
 ---
 
@@ -119,25 +96,42 @@ Led infra, CI/CD, and automation (Lambda+Datadog) for a central ops dashboard, c
 
 <p align="center">
   <a href="https://github.com/iamapsrajput/modelmuxer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamapsrajput&repo=modelmuxer&theme=tokyonight&hide_border=true" alt="ModelMuxer" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamapsrajput&repo=modelmuxer&theme=radical&hide_border=true"/>
   </a>
-  <a href="https://github.com/iamapsrajput/rate-limit-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamapsrajput&repo=rate-limit-api&theme=tokyonight&hide_border=true" alt="Rate Limit API" />
+  <a href="https://github.com/iamapsrajput/shagunintelligence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamapsrajput&repo=shagunintelligence&theme=radical&hide_border=true"/>
   </a>
 </p>
 
 ---
 
-## ✨ Recognition & Community
+## 🗂 Profile Summary Cards (Auto-Generated)
 
-- 🏅 Innovation Award (2025) — Thomson Reuters  
-- 🌟 Star Awards (2021) — Collins Aerospace  
-- 🤝 QUADRANT Award (2020) — Team excellence
+<p align="center">
+  <!-- These files will appear after the workflow generates them daily -->
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" />
+</p>
 
 ---
 
-## 🤝 Let’s Build
+## 🧩 Metrics Dashboard (Auto-Generated)
 
-If you’re working on **platform reliability**, **observability at scale**, or **LLM routing/cost control**, I’d love to collaborate.  
-**DM:** <a href="https://www.linkedin.com/in/iamapsrajput/">LinkedIn</a> • **Contact:** <a href="mailto:iamapsrajput@outlook.com">Email</a>
+<p align="center">
+  <!-- This file will be generated by the Metrics workflow -->
+  <img src="./metrics.svg" alt="Metrics Dashboard"/>
+</p>
 
+---
+
+## ✨ Recognition
+
+- 🏅 **Innovation Award 2025** – Thomson Reuters  
+- 🌟 **Star Awards 2021** – Collins Aerospace  
+- 🤝 **QUADRANT Award 2020** – Team Excellence  
+
+<div align="center">
+<sub>“Be the change that you want to see in the world.”</sub>
+</div>
