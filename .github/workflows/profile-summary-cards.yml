@@ -20,4 +20,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: iamapsrajput
-          THEME: github_dark
+          UTC_OFFSET: "+2"   # Europe/Warsaw
+          AUTO_PUSH: "true"
