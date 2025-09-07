@@ -1,7 +1,7 @@
 <!-- Ajay Rajput — Portfolio README (Radical) -->
 
 <p align="center">
-  <img src="./assets/banners/header-radical.svg" alt="Ajay Rajput banner" />
+  <img src="./assets/header-hero.png" alt="Ajay Rajput banner" />
 </p>
 
 <!-- Typing intro (separate element; GitHub does not allow z-index layering) -->
