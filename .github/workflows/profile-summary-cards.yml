@@ -1,14 +1,9 @@
-
 name: Profile Summary Cards
-
 on:
-  schedule:
-    - cron: "0 3 * * *"   # daily
+  schedule: [{ cron: "0 3 * * *" }]
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,5 +15,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: iamapsrajput
-          UTC_OFFSET: "+2"   # Europe/Warsaw
+          UTC_OFFSET: "+2"
           AUTO_PUSH: "true"

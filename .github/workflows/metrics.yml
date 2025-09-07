@@ -1,14 +1,9 @@
-
 name: Metrics Dashboard
-
 on:
-  schedule:
-    - cron: "0 6 * * *"   # daily
+  schedule: [{ cron: "0 6 * * *" }]
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
