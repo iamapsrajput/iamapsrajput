@@ -1,4 +1,13 @@
-<!-- Ajay Rajput — Portfolio README (clean, info-first) -->
+<!-- Ajay Rajput — Portfolio README (Radical) -->
+
+<p align="center">
+  <img src="./assets/banners/header-radical.svg" alt="Ajay Rajput banner" />
+</p>
+
+<!-- Typing intro (separate element; GitHub does not allow z-index layering) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=1000&lines=Lead+SRE+%7C+DevOps+%7C+Platform+Engineering;Creator+of+ModelMuxer;Cloud-native%2C+observable%2C+cost-aware+systems" alt="Typing intro"/>
+</p>
 
 <p align="center">
   <a href="https://ajayrajput.link"><img alt="Website" src="https://img.shields.io/badge/🌐_Portfolio-ajayrajput.link-1E90FF?style=for-the-badge"></a>
