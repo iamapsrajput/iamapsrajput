@@ -1,0 +1,11 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ajay Rajput — DevOps | SRE | Platform">
+  <rect width="1200" height="260" fill="#0B1220"/>
+  <g opacity="0.18">
+    <circle cx="1100" cy="40" r="120" fill="#22D3EE"/>
+    <circle cx="120" cy="220" r="160" fill="#A78BFA"/>
+    <circle cx="680" cy="180" r="120" fill="#34D399"/>
+  </g>
+  <text x="64" y="120" font-family="Inter,Segoe UI,Arial" font-size="44" fill="#E5E7EB" font-weight="700">Ajay Rajput</text>
+  <text x="64" y="160" font-family="Inter,Segoe UI,Arial" font-size="22" fill="#93C5FD">Lead SRE · DevOps · Platform Engineering · AI × DevOps</text>
+  <text x="64" y="195" font-family="Inter, Segoe UI, Arial" font-size="16" fill="#9CA3AF">Cloud-native • Observability by default • Cost guardrails • Kubernetes • Terraform</text>
+</svg>
